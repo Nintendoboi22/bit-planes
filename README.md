@@ -32,7 +32,7 @@ just have it run the main HTML file and it will work fine.
 
 ## Credits
 
-Please ensure you give credit to the original creator of Bit-Planes.
+Please ensure you give credit to the original creator of [Bit-Planes](https://medv.io/bit-planes/).
 
 ---
 
